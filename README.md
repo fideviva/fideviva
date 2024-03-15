@@ -3,6 +3,8 @@ I have studied computer science in Saint Louis university and I am currently stu
 
 ## Main Computer languages:
 ![MySQL](MySQL logo.webp "MySQL")
+![MySQL]()
+![alt text](image.jpg)
 - Node.js
 - MySQL
 - HTML
