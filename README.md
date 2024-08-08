@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Fide</h1>
-<h3>A passionate full stack developer with experience in Python, React native, nodejs, sql</h3>
+### Hi there 👋, I'm Fide
+#### I am a Full Stack Developer
+![I am a Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-![fideviva's Stats](https://github-readme-stats.vercel.app/api?username=fideviva&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I worked 
+
+Skills: PYTHON / REACT / JS / NODEJS / SQL
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fideviva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/josé-fidel-paredes/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fideviva)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fideviva&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fideviva)  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
