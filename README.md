@@ -2,7 +2,7 @@
 #### I am a Full Stack Developer
 ![I am a Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I worked 
+I studied Computer Science at Saint Louis University and at 4Geeks Academy. 
 
 Skills: PYTHON / REACT / JS / NODEJS / SQL
 
@@ -11,7 +11,7 @@ Skills: PYTHON / REACT / JS / NODEJS / SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fideviva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/josé-fidel-paredes/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fideviva)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fideviva&show_icons=true)  
 
