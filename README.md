@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Fide
-#### I am a Full Stack Developer
+<h1>Hi there 👋, I'm Fide</h1>
+<h3>I am a Full Stack developer</h3> 
 ![I am a Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I studied Computer Science at Saint Louis University and at 4Geeks Academy. 
