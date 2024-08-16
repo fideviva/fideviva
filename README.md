@@ -2,7 +2,7 @@
 <h3>I am a Computer Science BS graduate from Saint Louis University</h3> 
 
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 <h5 align="left">FRONTEND:</h5>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
